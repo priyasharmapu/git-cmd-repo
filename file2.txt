@@ -1,0 +1,19 @@
+this is file 2....
+
+
+
+**************************************
+COMANDS 
+
+
+notepad file2.txt
+git status
+
+git add . then press enter---> for multiple file
+this is period sign
+
+
+
+git commit -, "added three files"
+
+
